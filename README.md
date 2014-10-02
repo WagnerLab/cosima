@@ -1,4 +1,4 @@
-SignalProcessingToolbox
+cosima
 =======================
 
-Wagner Lab helper functions for signal preprocessing
+Wagner Lab signal preprocessing toolbox.
